@@ -1,0 +1,9 @@
+_pycache_/
+*.pyc
+*.pyo
+*.log
+.env
+.venv
+.git
+qr_codes/
+logs/
