@@ -28,8 +28,16 @@ docker run -d --name qr-generator \
 # View logs
 docker logs -f qr-generator
 
-# screenshots: 
-![alt text](<Screenshot 2025-10-25 at 11.22.10 AM.png>)
-![alt text](<Screenshot 2025-10-25 at 11.24.57 AM.png>)
-![alt text](<Screenshot 2025-10-25 at 11.30.13 AM.png>)
-![alt text](<Screenshot 2025-10-25 at 11.33.32 AM.png>)
+## Screenshots
+
+### Docker Login Successful
+![Docker Login](./Screenshot%202025-10-25%20at%2011.22.10 AM.png)
+
+###  Running Container + Logs Showing QR Saved
+![Docker Run Logs](./Screenshot%202025-10-25%20at%2011.24.57 AM.png)
+
+### Docker Push Success (Digest Output)
+![Docker Push Success](./Screenshot%202025-10-25%20at%2011.30.13 AM.png)
+
+### Docker Hub Repository – Image Successfully Pushed
+![Docker Hub Repo](./Screenshot%202025-10-25%20at%2011.33.32 AM.png)
